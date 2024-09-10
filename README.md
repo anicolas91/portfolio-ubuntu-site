@@ -6,6 +6,14 @@
 
 > A portfolio template inspired from Ubuntu (based on Ubuntu 22.04)
 
+
+## Credits
+
+This project is based on the work of [Bobby Kim](https://github.com/bobbykim89).
+
+This website is based on his [Portfolio Ubuntu repository](https://github.com/bobbykim89/portfolio-ubuntu-theme). Thanks for being awesome, Bobby!
+
+
 ## Setup
 
 Make sure to install the dependencies:
