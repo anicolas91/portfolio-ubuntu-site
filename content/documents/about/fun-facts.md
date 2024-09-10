@@ -1,7 +1,7 @@
 ---
-title: 'About Me'
+title: 'Fun Facts'
 order: 1
-fileName: 'Info.md'
+fileName: 'fun-facts.md'
 type: 'md'
 imageUrl: '/content_img/about/thumbnail-linkedin.jpeg'
 githubUrl: 'https://github.com/anicolas91'
@@ -12,15 +12,8 @@ emailAddress: 'andreanicolas91@gmail.com'
 ::info-header{:image-url="imageUrl" image-alt="andy's profile picture"}
 
 
-## About Andy
+## Fun Facts about me
 
-::
-
-::abstract
-
-Research Engineer | Aerospace PhD | Expert in Multi-Physics Simulations, Process Optimization, and Machine Learning
-
-::
 
 ### About Me
 

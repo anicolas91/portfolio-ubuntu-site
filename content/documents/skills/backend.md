@@ -3,9 +3,9 @@ title: 'Backend Skills'
 order: 2
 fileName: 'Backend.md'
 type: 'md'
-githubUrl: 'https://github.com/bobbykim89'
-linkedinUrl: 'https://www.linkedin.com/in/sihun-kim-9baa17165/'
-emailAddress: 'bobby.sihun.kim@gmail.com'
+githubUrl: 'https://github.com/anicolas91'
+linkedinUrl: 'https://www.linkedin.com/in/andrea-nicolas-flores/'
+emailAddress: 'andreanicolas91@gmail.com'
 ---
 
 ::hero-small
@@ -14,7 +14,7 @@ emailAddress: 'bobby.sihun.kim@gmail.com'
 
 ::
 
-::skill-block{:icons='["aws", "nodejs", "nestjs", "express", "fastify", "fastapi", "django", "serverless", "mongoose", "prisma", "postgres", "mongodb"]'}
+::skill-block{:icons='["aws", "flask", "fastapi","S3","postgreSQL","Unix","bash"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

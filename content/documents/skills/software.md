@@ -1,7 +1,7 @@
 ---
-title: 'DevOps Skills'
-order: 3
-fileName: 'DevOps.md'
+title: 'Software'
+order: 1
+fileName: 'Software.md'
 type: 'md'
 githubUrl: 'https://github.com/anicolas91'
 linkedinUrl: 'https://www.linkedin.com/in/andrea-nicolas-flores/'
@@ -10,11 +10,11 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::hero-small
 
-## DevOps Skills
+## Software
 
 ::
 
-::skill-block{:icons='["mlflow","docker", "grafana", "prefect","evidently","git","jira","pylint","pytest"]'}
+::skill-block{:icons='["Comsol", "Ansys APDL", "ANSYS Workbench", "Xpedition", "Solidworks", "NX", "MOOSE", "Paraview"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

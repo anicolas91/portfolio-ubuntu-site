@@ -34,9 +34,9 @@ const { style } = useDraggable(draggableRef, {
 const setContainerSize = computed<string>(() => {
   const { containerSize, maximized } = props
   const widthClass: Record<'30' | '50' | '70', string> = {
-    '30': 'md:w-1/2 lg:w-1/3 xl:w-1/4',
-    '50': 'md:w-2/3 lg:w-1/2 xl:w-2/5',
-    '70': 'md:w-4/5 lg:w-2/3 xl:w-1/2',
+    '30': 'md:w-1/2 lg:w-1/3 2xl:w-1/4',
+    '50': 'md:w-2/3 lg:w-1/2 2xl:w-2/5',
+    '70': 'md:w-4/5 lg:w-2/3 2xl:w-1/2',
   }
   return maximized ? '' : `md:fixed ${widthClass[containerSize]}`
 })

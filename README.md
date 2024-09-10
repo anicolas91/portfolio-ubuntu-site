@@ -12,13 +12,13 @@ Make sure to install the dependencies:
 
 ```bash
 # npm
-npm install
+# npm install
 
 # pnpm
 pnpm install
 
 # yarn
-yarn install
+# yarn install
 ```
 
 ## Development Server
@@ -27,14 +27,18 @@ Start the development server on `http://localhost:3000`:
 
 ```bash
 # npm
-npm run dev
+# npm run dev
 
 # pnpm
-pnpm run dev
+pnpm dev
 
 # yarn
-yarn dev
+# yarn dev
 ```
+
+Make sure you have a `.env` file with environmental variables.
+
+When you visit localhost:3000, it may reload a couple of times because it is optimizing dependencies.
 
 ## Production
 

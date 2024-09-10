@@ -38,11 +38,11 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      siteName: 'ManguitoOS',
-      userName: 'Manguito Lovebird',
-      gitHubUrl: 'https://github.com/bobbykim89',
-      linkedinUrl: 'https://www.linkedin.com/in/sihun-kim-9baa17165/',
-      emailAddress: 'bobby.sihun.kim@gmail.com',
+      siteName: 'AndyWebOS',
+      userName: 'Andrea Nicolas',
+      gitHubUrl: 'https://github.com/anicolas91',
+      linkedinUrl: 'https://www.linkedin.com/in/andrea-nicolas-flores/',
+      emailAddress: 'andreanicolas91@gmail.com',
       audioExternalSrc: true,
       audioSrcBaseUrl: process.env.AUDIO_SOURCE_BASE_URL,
       imageSourceApiUrl: process.env.CLOUDINARY_API_URL,

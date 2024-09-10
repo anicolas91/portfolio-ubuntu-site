@@ -5,6 +5,9 @@ export const wallpaperData: WallpaperDataType[] = [
     fileName: 'wallpaper-custom.jpg',
   },
   {
+    fileName: 'manguito.jpg',
+  },
+  {
     fileName: 'clouds.jpg',
   },
   {
