@@ -14,7 +14,7 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::
 
-::skill-block{:icons='["electron backscatter diffraction (EBSD)" , "energy dispersive x-ray (EDX)", "scanning electron microscopy (SEM)", "confocal laser surface microscopy (CLSM)", "optical microscopy"]'}
+::skill-block{:icons='["ebsd" , "edx", "sem", "confocal", "optical"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

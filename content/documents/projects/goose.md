@@ -7,7 +7,7 @@ gitUrl: 'https://github.com/Argonne-National-Laboratory/goose'
 reportUrl: 'https://publications.anl.gov/anlpubs/2020/08/161661.pdf'
 ---
 
-::hero{:image-src="image" :rounded="false" :gradient="true"}
+::hero{:image-src="image" :rounded="true" :gradient="true"}
 
 ## GOOSE
 

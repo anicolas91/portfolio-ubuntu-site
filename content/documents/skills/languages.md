@@ -14,7 +14,7 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::
 
-::skill-block{:icons='["python", "c++", "matlab", "bash", "fortran", "java", "r", "latex","APDL","XML"]'}
+::skill-block{:icons='["python", "c++", "matlab", "bash", "fortran", "java", "r", "latex","apdl","xml"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

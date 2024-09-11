@@ -14,7 +14,7 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::
 
-::skill-block{:icons='["aws", "flask", "fastapi","S3","postgreSQL","Unix","bash"]'}
+::skill-block{:icons='["aws", "flask", "fastapi","s3","postgres","linux","bash"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

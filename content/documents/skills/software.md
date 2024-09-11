@@ -14,7 +14,7 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::
 
-::skill-block{:icons='["Comsol", "Ansys APDL", "ANSYS Workbench", "Xpedition", "Solidworks", "NX", "MOOSE", "Paraview"]'}
+::skill-block{:icons='["comsol", "ansys", "xpedition", "solidworks", "nx", "moose", "paraview"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

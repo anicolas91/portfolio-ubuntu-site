@@ -7,7 +7,7 @@ gitUrl: 'https://github.com/anicolas91/CRScanada_MLOps'
 pageUrl: 'https://www.youtube.com/watch?v=-GvjjPpuepY&ab_channel=andreanicolas'
 ---
 
-::hero{:image-src="image" :rounded="true" :gradient="false"}
+::hero{:image-src="image" :rounded="true" :gradient="true"}
 
 ## Canadian CRS score predictor
 
