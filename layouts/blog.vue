@@ -133,14 +133,14 @@ const handleScrollClick = () => {
       ></div>
       <div class="relative container -mb-md">
         <BlogHomeHeader
-          image-url="/content_img/about/manguito_small.jpg"
+          image-url="/content_img/about/thumbnail-linkedin.jpeg"
           :github-url="$config.public.gitHubUrl"
           :linkedin-url="$config.public.linkedinUrl"
           :email-address="$config.public.emailAddress"
         >
           <div class="text-center">
             <h2 class="mb-xs">{{ $config.public.userName }}</h2>
-            <p>Full-stack developer in Phoenix, AZ</p>
+            <p>Research Engineer in Phoenix, AZ</p>
           </div>
         </BlogHomeHeader>
         <slot />

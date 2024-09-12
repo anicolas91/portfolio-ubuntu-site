@@ -35,14 +35,14 @@ const formatDate = (date: string): string => {
       class="absolute top-0 -translate-y-1/2 inset-x-0 h-64 bg-warning"
     ></div>
     <BlogHomeHeader
-      image-url="/content_img/about/manguito_small.jpg"
+      image-url="/content_img/about/thumbnail-linkedin.jpeg"
       :github-url="$config.public.gitHubUrl"
       :linkedin-url="$config.public.linkedinUrl"
       :email-address="$config.public.emailAddress"
     >
       <div class="text-center">
         <h2 class="mb-xs">{{ $config.public.userName }}</h2>
-        <p>Full-stack developer in Phoenix, AZ</p>
+        <p>Research Enginner in Phoenix, AZ</p>
       </div>
     </BlogHomeHeader>
 
