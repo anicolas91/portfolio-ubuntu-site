@@ -1,18 +1,17 @@
 <script setup lang="ts">
-import InfoSvgIcon from '@/assets/img/svg-files/emblem-important-symbolic.svg'
-import DocumentSvgIcon from '@/assets/img/svg-files/folder-documents-symbolic.svg'
-import PowerSvgIcon from '@/assets/img/svg-files/system-shutdown-symbolic.svg'
-import UbuntuLogo from '@/assets/img/ubuntu/ubuntu-logo-dark.png'
+import InfoSvgIcon from '@/assets/img/svg-files/emblem-important-symbolic.svg';
+import DocumentSvgIcon from '@/assets/img/svg-files/folder-documents-symbolic.svg';
+import PowerSvgIcon from '@/assets/img/svg-files/system-shutdown-symbolic.svg';
+import UbuntuLogo from '@/assets/img/ubuntu/ubuntu-logo-dark.png';
 
 definePageMeta({
   layout: false,
 })
 
 useHead({
-  title: 'Manguito OS | Shutdown',
+  title: 'AndyWebOS | Shutdown',
   meta: [
-    { name: 'description', content: 'Main page' },
-    { property: 'og:title', content: 'Manguito OS | Shutdown' },
+    { property: 'og:title', content: 'AndyWebOS | Shutdown' },
   ],
 })
 

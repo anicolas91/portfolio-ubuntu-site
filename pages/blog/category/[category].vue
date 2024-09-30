@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import ChevronLeft from '@/assets/img/svg-files/pan-start-symbolic.svg'
-import BlogCard from '@/components/main-page-components/blog-parts/BlogCard.vue'
+import ChevronLeft from '@/assets/img/svg-files/pan-start-symbolic.svg';
+import BlogCard from '@/components/main-page-components/blog-parts/BlogCard.vue';
 
 definePageMeta({
   layout: 'blog',
@@ -11,12 +11,11 @@ definePageMeta({
 const route = useRoute()
 
 useHead({
-  title: `Manguito OS | Blog - ${route.params.category}`,
+  title: `AndyWebOS | Blog - ${route.params.category}`,
   meta: [
-    { name: 'description', content: 'Blog page' },
     {
       property: 'og:title',
-      content: `Manguito OS | Blog - ${route.params.category}`,
+      content: `AndyWebOS | Blog - ${route.params.category}`,
     },
   ],
 })

@@ -22,11 +22,11 @@ export default defineNuxtConfig({
         {
           name: 'description',
           content:
-            'A portfolio template inspired from Ubuntu (based on Ubuntu 22.04)',
+            'A personal portfolio website for Andrea Nicolas',
         },
         {
           property: 'og:title',
-          content: 'Manguito OS',
+          content: 'AndyWebOS',
         },
         {
           property: 'og:image',

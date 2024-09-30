@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import BlogCard from '@/components/main-page-components/blog-parts/BlogCard.vue'
-import { MclFormGroup, MclInputText } from '@bobbykim/mcl-forms'
-import { computed, ref } from 'vue'
+import BlogCard from '@/components/main-page-components/blog-parts/BlogCard.vue';
+import { MclFormGroup, MclInputText } from '@bobbykim/mcl-forms';
+import { computed, ref } from 'vue';
 
 definePageMeta({
   layout: 'blog',
@@ -10,10 +10,9 @@ definePageMeta({
 })
 
 useHead({
-  title: 'Manguito OS | Blog',
+  title: 'AndyWebOS | Blog',
   meta: [
-    { name: 'description', content: 'Blog page' },
-    { property: 'og:title', content: 'Manguito OS | Blog' },
+    { property: 'og:title', content: 'AndyWebOS | Blog' },
   ],
 })
 

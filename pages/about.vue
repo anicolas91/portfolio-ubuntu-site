@@ -7,10 +7,9 @@ definePageMeta({
 })
 
 useHead({
-  title: 'Manguito OS | About',
+  title: 'AndyWebOS | About',
   meta: [
-    { name: 'description', content: 'About page' },
-    { property: 'og:title', content: 'Manguito OS | About' },
+    { property: 'og:title', content: 'AndyWebOS | About' },
   ],
 })
 </script>

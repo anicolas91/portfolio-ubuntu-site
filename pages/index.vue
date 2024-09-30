@@ -6,10 +6,9 @@ import { useIntervalFn } from '@vueuse/core'
 import { computed, ref } from 'vue'
 
 useHead({
-  title: 'Manguito OS | Login',
+  title: 'AndyWebOS | Login',
   meta: [
-    { name: 'description', content: 'Main page' },
-    { property: 'og:title', content: 'Manguito OS | Login' },
+    { property: 'og:title', content: 'AndyWebOS | Login' },
   ],
 })
 

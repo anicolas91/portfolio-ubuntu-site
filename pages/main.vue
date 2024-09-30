@@ -18,10 +18,9 @@ import { storeToRefs } from 'pinia'
 import { onMounted, ref, watch } from 'vue'
 
 useHead({
-  title: 'Manguito OS | Main',
+  title: 'AndyWebOS | Main',
   meta: [
-    { name: 'description', content: 'Main page' },
-    { property: 'og:title', content: 'Manguito OS | Main' },
+    { property: 'og:title', content: 'AndyWebOS | Main' },
   ],
 })
 

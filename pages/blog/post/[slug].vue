@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import ChevronLeft from '@/assets/img/svg-files/pan-start-symbolic.svg'
+import ChevronLeft from '@/assets/img/svg-files/pan-start-symbolic.svg';
 
 definePageMeta({
   layout: 'normal',
@@ -16,10 +16,9 @@ const { data: post } = await useAsyncData('post-data', () =>
 )
 
 useHead({
-  title: `Manguito OS | ${post.value?.title}`,
+  title: `AndyWebOS | ${post.value?.title}`,
   meta: [
-    { name: 'description', content: 'Blog page' },
-    { property: 'og:title', content: `Manguito OS | ${post.value?.title}` },
+    { property: 'og:title', content: `AndyWebOS | ${post.value?.title}` },
   ],
 })
 </script>
