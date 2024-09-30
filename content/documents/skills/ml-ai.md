@@ -14,7 +14,7 @@ emailAddress: 'andreanicolas91@gmail.com'
 
 ::
 
-::skill-block{:icons='["conda", "pypi", "venv", "numpy", "pandas", "pytorch", "scikit-learn","xgboost","scipy","seaborn","matplotlib"]'}
+::skill-block{:icons='["conda", "pypi", "venv", "numpy", "pandas", "pytorch", "scikit-learn","xgboost","scipy","seaborn","matplotlib", "openai","ollama","huggingface","mistral-ai","elasticsearch","jax"]'}
 ::
 
 ::contact-buttons{:github-url="githubUrl" :linkedinUrl="linkedinUrl" :email-address="emailAddress"}

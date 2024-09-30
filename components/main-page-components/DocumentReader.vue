@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { queryContent, useAsyncData } from '#imports'
-import { useTextReaderStore } from '@/stores'
-import { storeToRefs } from 'pinia'
-import AppContainerGeneric from './AppContainerGeneric.vue'
+import { queryContent, useAsyncData } from '#imports';
+import { useTextReaderStore } from '@/stores';
+import { storeToRefs } from 'pinia';
+import AppContainerGeneric from './AppContainerGeneric.vue';
 
 const props = withDefaults(
   defineProps<{
@@ -70,7 +70,7 @@ const setMdReaderActive = (val: boolean) => {
   >
     <div
       :class="[
-        isMdMaximized ? 'md:h-[92vh]' : 'md:h-[80vh]',
+        isMdMaximized ? 'md:h-[calc(100vh-65px)]' : 'md:h-[80vh]',
         'bg-dark-3 h-full text-light-1 pt-3xs pb-xs md:pb-3xs px-sm relative overflow-y-auto',
       ]"
     >

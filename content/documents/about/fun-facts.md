@@ -1,6 +1,6 @@
 ---
 title: 'Fun Facts'
-order: 1
+order: 4
 fileName: 'fun-facts.md'
 type: 'md'
 imageUrl: '/content_img/about/thumbnail-linkedin.jpeg'
