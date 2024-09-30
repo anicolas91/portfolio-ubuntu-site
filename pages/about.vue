@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import AboutImage from '@/assets/img/about/about.jpg'
+import AboutImage from '@/assets/img/about/about.jpg';
 definePageMeta({
   layout: 'normal',
   layoutTransition: { name: 'blog', mode: 'out-in' },
@@ -27,11 +27,11 @@ useHead({
           />
         </div>
         <div class="text-light-3">
-          <h2 class="h2-md mb-xs">About Manguito OS</h2>
+          <h2 class="h2-md mb-xs">AndyWebOS</h2>
           <div class="font-bold text-lg mb-xs">
             <p>A portfolio template with Ubuntu theme.</p>
             <p>Version: 0.1.0</p>
-            <p>Maintainer: Bobby Kim</p>
+            <p>Maintainer: Andrea Nicolas</p>
           </div>
           <div class="flex items-center justify-center gap-xs">
             <!-- github logo -->
